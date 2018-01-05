@@ -1,0 +1,2 @@
+# codigos
+comandos Linux
