@@ -1,0 +1,2 @@
+ver la mac
+/sbin/ifconfig | grep HWaddr
