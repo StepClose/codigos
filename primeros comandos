@@ -3,3 +3,6 @@ ver la mac
 
 Mostrar puertos de red Linux con ID de proceso (PID)
 netstat -tulpn
+
+Permite el reenvío de IP, convierte la caja de Linux en un enrutador, lo que es útil para enrutar el tráfico a través de un paquete.
+echo "1" > /proc/sys/net/ipv4/ip_forward
