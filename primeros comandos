@@ -1,2 +1,5 @@
 ver la mac
 /sbin/ifconfig | grep HWaddr
+
+Mostrar puertos de red Linux con ID de proceso (PID)
+netstat -tulpn
